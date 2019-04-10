@@ -1,0 +1,78 @@
+[27-Nov-2018 02:13:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'svieeesl_mano'@'localhost' to database ' svieeesl_ieeeSLSYWC' in /home/svieeesl/public_html/invitation/dashboard/login.php on line 7
+[27-Nov-2018 02:13:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 16
+[27-Nov-2018 02:13:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 17
+[27-Nov-2018 02:13:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 20
+[27-Nov-2018 02:13:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 23
+[27-Nov-2018 02:14:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'svieeesl_mano'@'localhost' to database ' svieeesl_ieeeSLSYWC' in /home/svieeesl/public_html/invitation/dashboard/login.php on line 7
+[27-Nov-2018 02:14:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 16
+[27-Nov-2018 02:14:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 17
+[27-Nov-2018 02:14:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 20
+[27-Nov-2018 02:14:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 23
+[27-Nov-2018 02:14:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'svieeesl_mano'@'localhost' to database ' svieeesl_ieeeSLSYWC' in /home/svieeesl/public_html/invitation/dashboard/login.php on line 7
+[27-Nov-2018 02:14:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 16
+[27-Nov-2018 02:14:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 17
+[27-Nov-2018 02:14:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 20
+[27-Nov-2018 02:14:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/svieeesl/public_html/invitation/dashboard/login.php on line 23
+[27-Nov-2018 04:52:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'svsl_mano'@'localhost' (using password: YES) in /home/svieeesl/public_html/invitation/dashboard/index.php on line 29
+[27-Nov-2018 04:52:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 31
+[27-Nov-2018 04:52:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 32
+[27-Nov-2018 04:52:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 33
+[27-Nov-2018 04:52:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 34
+[27-Nov-2018 04:52:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 35
+[27-Nov-2018 04:52:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 36
+[27-Nov-2018 04:56:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'svsl_mano'@'localhost' (using password: YES) in /home/svieeesl/public_html/invitation/dashboard/index.php on line 29
+[27-Nov-2018 04:56:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 31
+[27-Nov-2018 04:56:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 32
+[27-Nov-2018 04:56:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 33
+[27-Nov-2018 04:56:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 34
+[27-Nov-2018 04:56:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 35
+[27-Nov-2018 04:56:39 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 36
+[27-Nov-2018 05:07:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 8
+[27-Nov-2018 05:07:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 9
+[27-Nov-2018 05:07:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 10
+[27-Nov-2018 05:07:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 11
+[27-Nov-2018 05:07:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 12
+[27-Nov-2018 05:07:59 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 13
+[27-Nov-2018 05:07:59 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 33
+[27-Nov-2018 05:09:23 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'svsl_mano'@'localhost' (using password: YES) in /home/svieeesl/public_html/invitation/dashboard/form.php on line 3
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'svsl_mano'@'localhost' (using password: YES) in /home/svieeesl/public_html/invitation/dashboard/form.php on line 3
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 11
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 12
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 13
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 14
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 15
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 16
+[27-Nov-2018 05:09:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 36
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'svsl_mano'@'localhost' (using password: YES) in /home/svieeesl/public_html/invitation/dashboard/form.php on line 9
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 11
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 12
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 13
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 14
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 15
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 16
+[27-Nov-2018 05:10:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 36
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'svsl_mano'@'localhost' (using password: YES) in /home/svieeesl/public_html/invitation/dashboard/form.php on line 9
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 11
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 12
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 13
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 14
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 15
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 16
+[27-Nov-2018 05:12:08 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/form.php on line 36
+[27-Nov-2018 05:16:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'svieeesl_mano_mano'@'localhost' (using password: YES) in /home/svieeesl/public_html/invitation/dashboard/index.php on line 29
+[27-Nov-2018 05:16:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 31
+[27-Nov-2018 05:16:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 32
+[27-Nov-2018 05:16:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 33
+[27-Nov-2018 05:16:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 34
+[27-Nov-2018 05:16:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 35
+[27-Nov-2018 05:16:49 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/svieeesl/public_html/invitation/dashboard/index.php on line 36
+[27-Nov-2018 05:47:54 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/svieeesl/public_html/invitation/dashboard/index.php on line 612
+[27-Nov-2018 05:50:43 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/svieeesl/public_html/invitation/dashboard/index.php on line 612
+[27-Nov-2018 05:51:21 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/svieeesl/public_html/invitation/dashboard/index.php on line 612
+[27-Nov-2018 05:51:24 UTC] PHP Fatal error:  Cannot use PHPMailer\PHPMailer\PHPMailer as PHPMailer because the name is already in use in /home/svieeesl/public_html/invitation/dashboard/index.php on line 612
+[27-Nov-2018 05:54:00 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/svieeesl/public_html/invitation/dashboard/PHPMailer/PHPMailer.php:1410
+Stack trace:
+#0 /home/svieeesl/public_html/invitation/dashboard/PHPMailer/PHPMailer.php(1348): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/svieeesl/public_html/invitation/dashboard/index.php(582): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/svieeesl/public_html/invitation/dashboard/PHPMailer/PHPMailer.php on line 1410
